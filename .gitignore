@@ -29,3 +29,4 @@ target
 .settings
 .project
 sonar-project.properties
+.scannerwork
