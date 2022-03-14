@@ -28,3 +28,4 @@ target
 .classpath
 .settings
 .project
+sonar-project.properties
