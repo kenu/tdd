@@ -5,6 +5,9 @@
 * ch04 - Assert methods
 * ch05 - JUnit 4 TestSuite
 * ch06 - JUnit 5 TestSuite
+* ch07 - Spring Boot Test
+* ch08 - MockBean Test
+* ch09 - DAO Test
 
 ## build
 ```
